@@ -1,6 +1,8 @@
 # Hot-Lava-stats-Checker
 This program will allow you to see your Hot Lava stats easier.
 
+# Go to releases for the download
+
 ## How to use?
 Go to your Hot Lava folder. 
 Using steam: go to library | right-click Hot Lava | click properties | go to installed files | click browse (top right)
