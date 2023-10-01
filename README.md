@@ -7,7 +7,7 @@ Using steam: go to library | right-click Hot Lava | click properties | go to ins
 
 Next go to \archive\build\saves
 
-Next click the folder name that matches with your steam id. (to check your steam id, go to [steamid.io](https://steamid.io/)https://steamid.io/) then put in your profile link.) [the steam id is the steam64 id]
+Next click the folder name that matches with your steam id. (to check your steam id, go to [steamid.io] then put in your profile link.) [the steam id is the steam64 id]
 
 Next click on a folder in there. these folders are your ingame profiles, if you only have 1 folder then open that one but if you have more open one of em up and open HLProfile.json with notepad++ to check what your playtime is. ("m_PlayTime":)
 
